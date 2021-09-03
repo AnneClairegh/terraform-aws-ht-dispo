@@ -1,0 +1,5 @@
+terraform.tfvars
+/.terraform*
+/keys
+terraform.tfstate*
+*.txt
